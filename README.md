@@ -1,5 +1,5 @@
 # creditcard-Fraud-
-Here is a professional and complete **`README.md`** for your **Credit Card Fraud Detection Project** — perfect for GitHub:
+Here is a complete **`README.md`** for your **Credit Card Fraud Detection Project**
 
 ---
 
